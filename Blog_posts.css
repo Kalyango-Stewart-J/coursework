@@ -1,0 +1,55 @@
+body{
+font-family:'Times New Roman', Times, serif;
+background: url(./blog\ bg.jpg);
+background-size: cover;
+padding: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card-container{
+display: flex;
+gap: 50px;
+height: 450px;
+}
+
+.card img{
+width: 100%;
+height: 180px;
+}
+
+.card{
+background: white;
+border-radius: 20px;
+width: 300px;
+}
+
+.card-information{
+padding: 10px;
+text-align: center;
+}
+
+.comment-section{
+display: flex;
+justify-content: space-between;
+padding: 10px;
+margin-top: 20px;
+font-weight: bold;
+text-align: center;
+}
+
+.pink{ 
+background-color: hotpink; 
+}
+
+.orange{ 
+background-color: orange; 
+}
+
+.green{ 
+background-color: green;
+}
+
+    
+   

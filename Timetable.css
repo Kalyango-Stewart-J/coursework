@@ -1,0 +1,28 @@
+body {
+font-family: Arial, sans-serif;
+background-color: white;
+margin: 40px;
+align-items: center;
+}
+
+table {
+width: 100%;
+text-align: center;
+}
+
+td {
+border: 2px solid black;
+padding: 15px;
+}
+
+th {
+border: 2px solid black;
+padding: 15px;
+background-color: green;
+font-weight: bold;
+}
+
+
+
+
+   
